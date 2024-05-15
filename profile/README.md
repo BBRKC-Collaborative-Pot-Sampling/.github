@@ -8,9 +8,9 @@ The data from this project are public and shareable, and will continue to be upd
 
 ## Completed Sampling Efforts
 ### CPS1: Winter/Spring 2023
-March 18 - April 4, 2023
+March 18 - April 4, 2023  
 *[Description to come]*
 
 ### CPS2: Winter/Spring 2024
-March 17 - April 4, 2024
+March 17 - April 4, 2024  
 *[Description to come]*
