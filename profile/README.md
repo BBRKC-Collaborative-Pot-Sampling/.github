@@ -13,4 +13,8 @@ March 18 - April 4, 2023
 
 ### CPS2: Winter/Spring 2024
 March 17 - April 4, 2024  
+*[Description to come]*  
+
+### CPS3: Winter/Spring 2026
+March 12 - April 6, 2026  
 *[Description to come]*
